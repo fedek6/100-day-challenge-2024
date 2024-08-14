@@ -18,7 +18,7 @@ Loser will sposnor a good quality vegan sushi dinner for both of us.
 
 #### Karol
 
--
+Read and practiced error catching in JS
 
 #### Me
 
