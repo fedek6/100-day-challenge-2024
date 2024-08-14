@@ -22,4 +22,4 @@ Loser will sposnor a good quality vegan sushi dinner for both of us.
 
 #### Me
 
--
+<img src="pixelart/001.png" width="256" height="256">
