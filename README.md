@@ -28,7 +28,7 @@ Read and practiced error catching in JS
 
 #### Karol
 
-- 
+- Practiced JS OOP concepts, mainly classes
 
 #### Me
 
