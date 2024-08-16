@@ -38,7 +38,7 @@ Read and practiced error catching in JS
 
 #### Karol
 
-- 
+- Started git course by https://github.com/ThePrimeagen
 
 #### Me
 
