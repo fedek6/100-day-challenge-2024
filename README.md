@@ -33,3 +33,13 @@ Read and practiced error catching in JS
 #### Me
 
 <img src="pixelart/002.png" width="256" height="256">
+
+### Day 98
+
+#### Karol
+
+- 
+
+#### Me
+
+<img src="pixelart/003.png" width="376" height="268">
