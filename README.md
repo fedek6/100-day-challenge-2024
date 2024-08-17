@@ -43,3 +43,12 @@ Read and practiced error catching in JS
 #### Me
 
 <img src="pixelart/003.png" width="376" height="268">
+
+### Day 98
+
+#### Karol
+
+- Finished around 50 % of the primagen Git course (setup and using git without any external programs to get to know git better)
+
+#### Me
+
