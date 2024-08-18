@@ -8,9 +8,9 @@ From **2024-08-14** every one of us (me & Karol) will do daily task (1 hour dail
 - @karolsykala will code
 - @fedek6 will draw pixel art
 
-## Loser 
+## Loser
 
-Loser will sponsor a good quality vegan sushi dinner for both of us. 
+Loser will sponsor a good quality vegan sushi dinner for both of us.
 
 ## Progress Log
 
@@ -24,7 +24,7 @@ Read and practiced error catching in JS
 
 <img src="pixelart/001.png" width="256" height="256">
 
-### Day 99
+### Day 2
 
 #### Karol
 
@@ -34,7 +34,7 @@ Read and practiced error catching in JS
 
 <img src="pixelart/002.png" width="256" height="256">
 
-### Day 98
+### Day 3
 
 #### Karol
 
@@ -44,7 +44,7 @@ Read and practiced error catching in JS
 
 <img src="pixelart/003.png" width="376" height="268">
 
-### Day 98
+### Day 4
 
 #### Karol
 
