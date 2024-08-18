@@ -53,3 +53,11 @@ Read and practiced error catching in JS
 #### Me
 
 <img src="pixelart/004.png" width="256" height="256">
+
+### Day 5
+
+#### Karol
+
+- Finished the whole Git course
+
+### Me
