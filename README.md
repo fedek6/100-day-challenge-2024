@@ -61,3 +61,7 @@ Read and practiced error catching in JS
 - Finished the Git course
 
 ### Me
+
+- Started experimenting with custom non-restricted palettes & top down perspective
+
+<img src="pixelart/005.png" width="252" height="200">
