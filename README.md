@@ -58,6 +58,6 @@ Read and practiced error catching in JS
 
 #### Karol
 
-- Finished the whole Git course
+- Finished the Git course
 
 ### Me
