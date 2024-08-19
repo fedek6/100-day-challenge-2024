@@ -70,7 +70,7 @@ Read and practiced error catching in JS
 
 #### Karol
 
-- 
+- Started a node.js course, after finishing that, there should be small github project that implements newly learned concepts
 
 ### Me
 
