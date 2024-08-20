@@ -82,7 +82,7 @@ Read and practiced error catching in JS
 
 #### Karol
 
-- 
+- continued to suffer with async js 
 
 ### Me
 
