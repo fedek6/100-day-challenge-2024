@@ -77,3 +77,15 @@ Read and practiced error catching in JS
 - Tile set study with light source 16x16
 
 <img src="pixelart/006.png" width="256" height="256">
+
+### Day 7
+
+#### Karol
+
+- 
+
+### Me
+
+- Tile set speed paint concept 32x32 with light source
+
+<img src="pixelart/007.png" width="520" height="500">
