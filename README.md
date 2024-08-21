@@ -89,3 +89,13 @@ Read and practiced error catching in JS
 - Tile set speed paint concept 32x32 with light source
 
 <img src="pixelart/007.png" width="520" height="500">
+
+### Day 8
+
+#### Karol
+
+- read and practiced basics of node modules (Events, Error, Buffer, Fs)
+
+#### Me
+
+-
