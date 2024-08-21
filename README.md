@@ -98,4 +98,4 @@ Read and practiced error catching in JS
 
 #### Me
 
--
+- Initial lineart for pixel art speed paiting called "so long łysy"
