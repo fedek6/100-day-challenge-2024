@@ -99,3 +99,14 @@ Read and practiced error catching in JS
 #### Me
 
 - Initial lineart for pixel art speed paiting called "so long łysy"
+
+### Day 9
+
+#### Karol
+
+- 
+#### Me
+
+- Silhouette for łysy
+
+<img src="pixelart/008.png" width="480" height="270">
