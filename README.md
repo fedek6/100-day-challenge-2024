@@ -104,7 +104,8 @@ Read and practiced error catching in JS
 
 #### Karol
 
-- 
+- Practiced using fs module and started reading about modular development with node.js
+
 #### Me
 
 - Silhouette for łysy
