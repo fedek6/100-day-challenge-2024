@@ -121,6 +121,6 @@ Read and practiced error catching in JS
 
 #### Me
 
-- 
+- Speed painting, recreation of 90's point and click adventure game scene
 
-
+<img src="pixelart/009.png" width="320" height="200">
