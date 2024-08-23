@@ -111,3 +111,16 @@ Read and practiced error catching in JS
 - Silhouette for łysy
 
 <img src="pixelart/008.png" width="480" height="270">
+
+### Day 10
+
+#### Karol
+
+- Practiced readable and writable streams in node.js
+  *As a bonus challenge I need to provide tommorow's log with a link to a node.js projects that should take couple of hours to make*
+
+#### Me
+
+- 
+
+
