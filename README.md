@@ -124,3 +124,14 @@ Read and practiced error catching in JS
 - Speed painting, recreation of 90's point and click adventure game scene
 
 <img src="pixelart/009.png" width="320" height="200">
+
+### Day 11
+
+#### Karol
+
+- Practiced creating and using modules, started a practice project, failed to finish yesterday mini-challenge, so Konrad will be spoiled with Falafel 🥙
+
+
+#### Me
+
+- 
