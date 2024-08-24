@@ -134,4 +134,4 @@ Read and practiced error catching in JS
 
 #### Me
 
-- 
+- Added some details to łysy scene. No, Karol does not owe me any Falafel.
