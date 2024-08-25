@@ -140,7 +140,7 @@ Read and practiced error catching in JS
 
 #### Karol
 
--
+- Researched and set up data storage server to host databases that will be needed in upcoming projects
 
 #### Me 
 
