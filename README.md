@@ -135,3 +135,14 @@ Read and practiced error catching in JS
 #### Me
 
 - Added some details to łysy scene. No, Karol does not owe me any Falafel.
+
+### Day 12
+
+#### Karol
+
+-
+
+#### Me 
+
+- Added some pixels to łysy scene (need to finish it before his farewell)
+
