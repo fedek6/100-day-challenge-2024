@@ -145,4 +145,14 @@ Read and practiced error catching in JS
 #### Me 
 
 - Added some pixels to łysy scene (need to finish it before his farewell)
+  
+### Day 13
+
+#### Karol
+
+- Started a practice project, terminal maze solver game in node.js https://github.com/karolsykala/find-my-fedora
+
+#### Me 
+
+- Added some pixels to łysy scene (need to finish it before his farewell)
 
