@@ -154,5 +154,6 @@ Read and practiced error catching in JS
 
 #### Me 
 
-- Added some pixels to łysy scene (need to finish it before his farewell)
+- Created 32px x 32px blue haired fox for Karol
 
+<img src="pixelart/010.png" width="144" height="144">
