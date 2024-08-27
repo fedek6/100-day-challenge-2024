@@ -157,3 +157,13 @@ Read and practiced error catching in JS
 - Created 32px x 32px blue haired fox for Karol
 
 <img src="pixelart/010.png" width="144" height="144">
+
+### Day 14
+
+#### Karol
+
+- working on a terminal game, added main class and started working on game logic ([link](https://github.com/karolsykala/find-my-fedora/commit/1fa33b821527940e60261c7dab8071cf12f6a263)) 
+
+#### Me
+
+-
