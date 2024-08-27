@@ -166,4 +166,4 @@ Read and practiced error catching in JS
 
 #### Me
 
--
+- Added some pixels to my Łysy artwork.
