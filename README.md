@@ -167,3 +167,13 @@ Read and practiced error catching in JS
 #### Me
 
 - Added some pixels to my Łysy artwork.
+
+### Day 15
+
+#### Karol
+
+- Got stuck at implementic movement logic for the terminal game :c 
+
+#### Me
+
+- 
