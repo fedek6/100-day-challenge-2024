@@ -176,4 +176,4 @@ Read and practiced error catching in JS
 
 #### Me
 
-- 
+- Another few pixels at my łysy work.
