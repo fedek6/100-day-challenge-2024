@@ -177,3 +177,13 @@ Read and practiced error catching in JS
 #### Me
 
 - Another few pixels at my łysy work.
+
+### Day 16
+
+#### Karol
+
+- 
+
+#### Me
+
+- Added multiple details to Łysy artwork.
