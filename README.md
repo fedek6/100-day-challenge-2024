@@ -182,7 +182,7 @@ Read and practiced error catching in JS
 
 #### Karol
 
-- 
+- Took an easy day, practiced Katas on www.codewars.com
 
 #### Me
 
