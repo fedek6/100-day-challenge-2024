@@ -196,4 +196,6 @@ Read and practiced error catching in JS
 
 #### Me
 
-- 
+- Trained ray tracing on some balls.
+
+<img src="pixelart/011.png" width="278" height="136">
