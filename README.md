@@ -187,3 +187,13 @@ Read and practiced error catching in JS
 #### Me
 
 - Added multiple details to Łysy artwork.
+
+### Day 17
+
+#### Karol
+
+- Practiced more problems on codewars to solidify usage of differens js functions
+
+#### Me
+
+- 
