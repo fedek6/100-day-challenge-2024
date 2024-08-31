@@ -199,3 +199,13 @@ Read and practiced error catching in JS
 - Trained ray tracing on some balls.
 
 <img src="pixelart/011.png" width="278" height="136">
+
+### Day 18
+
+#### Karol
+
+- Studied Concurrency Model and Event Loop in JavaScript
+
+#### Me
+
+- 
