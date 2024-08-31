@@ -208,4 +208,4 @@ Read and practiced error catching in JS
 
 #### Me
 
-- 
+- Added shadowing to my łysy artwork.
