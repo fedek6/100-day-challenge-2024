@@ -209,3 +209,13 @@ Read and practiced error catching in JS
 #### Me
 
 - Added shadowing to my łysy artwork.
+
+### Day 19
+
+#### Karol
+
+-
+
+#### Me 
+
+- Added some pixls to Łysy.
