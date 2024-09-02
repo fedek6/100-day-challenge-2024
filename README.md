@@ -214,7 +214,7 @@ Read and practiced error catching in JS
 
 #### Karol
 
--
+- Learning about basics of concurrency in js
 
 #### Me 
 
