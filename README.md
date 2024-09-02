@@ -219,3 +219,13 @@ Read and practiced error catching in JS
 #### Me 
 
 - Added some pixls to Łysy.
+
+### Day 20
+
+#### Karol
+
+- Practicing creating promises in js
+
+#### Me 
+
+- 
