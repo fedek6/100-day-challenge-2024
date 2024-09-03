@@ -228,4 +228,6 @@ Read and practiced error catching in JS
 
 #### Me 
 
-- 
+- Finished Łysy speed paint. 
+
+<img src="pixelart/012.png" width="320" height="200">
