@@ -231,3 +231,13 @@ Read and practiced error catching in JS
 - Finished Łysy speed paint. 
 
 <img src="pixelart/012.png" width="320" height="200">
+
+### Day 21
+
+#### Karol
+
+- Another 👏🏻 day 👏🏻 with 👏🏻 js promisses 👏🏻
+
+#### Me 
+
+- 
