@@ -244,3 +244,13 @@ Read and practiced error catching in JS
 
 
 <img src="pixelart/013.png" width="314" height="248">
+
+### Day 22
+
+#### Karol
+
+- Took an easy day practicing js fundamentals on codewars
+ 
+#### Me 
+
+-
