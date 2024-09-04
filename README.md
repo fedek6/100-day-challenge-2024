@@ -240,4 +240,7 @@ Read and practiced error catching in JS
 
 #### Me 
 
-- 
+- Trained ray tracing on square element.
+
+
+<img src="pixelart/013.png" width="314" height="248">
