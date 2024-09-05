@@ -253,4 +253,14 @@ Read and practiced error catching in JS
  
 #### Me 
 
-- Took an easy day and prepared canvas for next big assignment. 
+- Took an easy day and prepared canvas for next big assignment.
+
+### Day 23
+
+#### Karol
+
+- Learned about catching errors in promises
+ 
+#### Me 
+
+- 
