@@ -253,4 +253,4 @@ Read and practiced error catching in JS
  
 #### Me 
 
--
+- Took an easy day and prepared canvas for next big assignment. 
