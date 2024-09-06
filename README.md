@@ -266,3 +266,13 @@ Read and practiced error catching in JS
 - Military box for my first asset set.
 
 <img src="pixelart/014.png" width="500" height="660">
+
+### Day 24
+
+#### Karok
+
+-
+
+#### Me
+
+- Started drawing green haired fox (take two).
