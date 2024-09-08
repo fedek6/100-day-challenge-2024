@@ -269,10 +269,20 @@ Read and practiced error catching in JS
 
 ### Day 24
 
-#### Karok
+#### Karol
 
--
+- Read some of "eloquent Javascript"
 
 #### Me
 
 - Started drawing green haired fox (take two).
+
+### Day 25
+
+#### Karol
+
+- Nothing exciting today, practiced on codewars while fighting with hangover
+
+#### Me
+
+- 
