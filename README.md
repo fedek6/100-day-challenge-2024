@@ -285,4 +285,14 @@ Read and practiced error catching in JS
 
 #### Me
 
+-
+
+### Day 26
+
+#### Karol
+
+- Came back to learning about async js concepts
+
+#### Me
+
 - 
