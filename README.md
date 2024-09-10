@@ -295,4 +295,13 @@ Read and practiced error catching in JS
 
 #### Me
 
+-
+### Day 27
+
+#### Karol
+
+- Learned a bit about using yaml to set up local services
+  
+#### Me
+
 - 
