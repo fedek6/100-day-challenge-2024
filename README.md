@@ -304,4 +304,13 @@ Read and practiced error catching in JS
   
 #### Me
 
+-
+### Day 28
+
+#### Karol
+
+- Started a mini side project "Pimp Up My Ender3", that required getting familiar with micropython in order to set up integration with rpi3 and ender3 power supply
+  
+#### Me
+
 - 
