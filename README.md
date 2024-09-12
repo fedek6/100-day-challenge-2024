@@ -314,3 +314,13 @@ Read and practiced error catching in JS
 #### Me
 
 - 
+### Day 29
+
+#### Karol
+
+- Prepared and deployed rpi5 kubernetes cluster
+
+  
+#### Me
+
+- 
