@@ -330,6 +330,12 @@ Read and practiced error catching in JS
 
 - Finished assembling 3d printed raspberry pi pico deck and programming it using CircuitPython
 
+### Day 31
+
+#### Karol
+
+- Did some more circuitPython debugging for macroPad
+
   
 #### Me
 
