@@ -340,3 +340,25 @@ Read and practiced error catching in JS
 #### Me
 
 - 
+
+### Day 32
+
+#### Karol
+
+-
+
+#### Me
+
+- Trained simple assets for military tilemap. 
+
+<img src="pixelart/015.png" width="647" height="208">
+
+### Day 33
+
+#### Karol
+
+-
+
+#### Me
+
+- Stated working on Fox concept on Karol's demand.
