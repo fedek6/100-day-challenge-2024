@@ -362,3 +362,13 @@ Read and practiced error catching in JS
 #### Me
 
 - Stated working on Fox concept on Karol's demand.
+
+## Day 34
+
+#### Karol
+
+-
+
+#### Me
+
+- Refined concept on Daron the Fox character.
